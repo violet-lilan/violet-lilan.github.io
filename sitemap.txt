@@ -1,0 +1,5 @@
+http://example.com/repository/index.html
+http://example.com/links/index.html
+http://example.com/books/index.html
+http://example.com/2024/11/09/hello-world/
+http://example.com/
