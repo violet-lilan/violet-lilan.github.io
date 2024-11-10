@@ -1,5 +1,5 @@
-http://example.com/repository/index.html
-http://example.com/links/index.html
-http://example.com/books/index.html
-http://example.com/2024/11/09/hello-world/
-http://example.com/
+https://github.com/violet-lilan/violet-lilan.github.io.git/repository/index.html
+https://github.com/violet-lilan/violet-lilan.github.io.git/links/index.html
+https://github.com/violet-lilan/violet-lilan.github.io.git/books/index.html
+https://github.com/violet-lilan/violet-lilan.github.io.git/2024/11/09/hello-world/
+https://github.com/violet-lilan/violet-lilan.github.io.git
