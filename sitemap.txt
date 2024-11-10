@@ -1,5 +1,5 @@
-https://github.com/violet-lilan/violet-lilan.github.io.git/repository/index.html
-https://github.com/violet-lilan/violet-lilan.github.io.git/links/index.html
-https://github.com/violet-lilan/violet-lilan.github.io.git/books/index.html
-https://github.com/violet-lilan/violet-lilan.github.io.git/2024/11/09/hello-world/
-https://github.com/violet-lilan/violet-lilan.github.io.git
+https://violet-lilan.github.io/repository/index.html
+https://violet-lilan.github.io/links/index.html
+https://violet-lilan.github.io/books/index.html
+https://violet-lilan.github.io/2024/11/09/hello-world/
+https://violet-lilan.github.io/
