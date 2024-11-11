@@ -6,7 +6,7 @@
   <link href="https://violet-lilan.github.io/atom.xml" rel="self"/>
   
   <link href="https://violet-lilan.github.io/"/>
-  <updated>2024-11-08T17:17:49.155Z</updated>
+  <updated>2024-11-11T07:56:11.877Z</updated>
   <id>https://violet-lilan.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="https://violet-lilan.github.io/2024/11/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://violet-lilan.github.io/2024/11/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2024-11-11T07:40:34.000Z</published>
+    <updated>2024-11-11T07:56:11.877Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p>欢迎大家浏览我的博客</p><p>希望这不会是我的唯一一篇博客哈哈哈</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;我的第一篇博客&quot;&gt;&lt;a href=&quot;#我的第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇博客&quot;&gt;&lt;/a&gt;我的第一篇博客&lt;/h1&gt;&lt;p&gt;欢迎大家浏览我的博客&lt;/p&gt;
+&lt;p&gt;希望这不会是我的唯一一篇博客哈哈哈&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
